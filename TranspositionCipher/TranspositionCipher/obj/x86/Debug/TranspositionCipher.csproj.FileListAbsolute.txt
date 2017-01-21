@@ -1,0 +1,5 @@
+c:\users\mariusz\documents\visual studio 2010\Projects\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.exe
+c:\users\mariusz\documents\visual studio 2010\Projects\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.pdb
+c:\users\mariusz\documents\visual studio 2010\Projects\TranspositionCipher\TranspositionCipher\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mariusz\documents\visual studio 2010\Projects\TranspositionCipher\TranspositionCipher\obj\x86\Debug\TranspositionCipher.exe
+c:\users\mariusz\documents\visual studio 2010\Projects\TranspositionCipher\TranspositionCipher\obj\x86\Debug\TranspositionCipher.pdb
